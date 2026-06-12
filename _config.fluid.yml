@@ -14,12 +14,9 @@ navbar:
 index:
   banner:
     enable: true
-    title: "二条律师｜日拱一卒"
-    subtitle:
-      enable: true
-      text: ["法律 · 思考 · 工具 · 暴论"]
-    cursor:
-      enable: false
+  slogan:
+    enable: true
+    text: "法律 · 思考 · 工具 · 暴论"
   post:
     enable: true
     limit: 8
