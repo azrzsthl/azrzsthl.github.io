@@ -1,0 +1,83 @@
+# Fluid 主题配置 - 二条律师
+# 文档: https://hexo.fluid-compiler.com/docs/
+
+# ---------- 导航栏 ----------
+navbar:
+  blog_name: 二条律师
+  menu:
+    - { key: "写作", link: "/writing/" }
+    - { key: "项目", link: "/projects/" }
+    - { key: "关于", link: "/about/" }
+
+# ---------- 首页 ----------
+index:
+  banner:
+    enable: true
+    title: "二条律师｜日拱一卒"
+    subtitle:
+      enable: true
+      text: ["法律 · 思考 · 工具 · 暴论"]
+    cursor:
+      enable: false
+  post:
+    enable: true
+    limit: 8
+    date_format: auto
+
+# ---------- 页脚 ----------
+footer:
+  content: "二条律师 - 日拱一卒"
+
+# ---------- 文章页 ----------
+post:
+  banner:
+    enable: true
+  meta:
+    date:
+      enable: true
+    categories:
+      enable: true
+    tags:
+      enable: true
+  toc:
+    enable: true
+
+# ---------- 归档页 ----------
+archive:
+  banner:
+    enable: true
+    title: 归档
+
+# ---------- 分类页 ----------
+category:
+  enable: true
+  limit: 0
+
+# ---------- 标签页 ----------
+tag:
+  enable: true
+  limit: 0
+
+# ---------- 关于页 ----------
+page:
+  default:
+    banner:
+      enable: true
+
+# ---------- 代码高亮 ----------
+code:
+  highlight:
+    enable: true
+    line_number: true
+
+# ---------- 暗色模式 ----------
+dark_mode:
+  enable: true
+  auto: true
+
+# ---------- 自定义 CSS ----------
+custom_css:
+  - /css/custom.css
+
+# ---------- 自定义 JS ----------
+custom_js:

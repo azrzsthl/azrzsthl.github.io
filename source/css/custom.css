@@ -1,0 +1,45 @@
+/* 二条律师 - 自定义样式 */
+
+/* 全局字体优化 */
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* 中文排版：段间距大于行间距 */
+.post-content p {
+  margin-bottom: 1.5em;
+  line-height: 1.8;
+}
+
+/* 引用块样式 */
+blockquote {
+  border-left: 3px solid #e74c3c;
+  padding-left: 1em;
+  margin-left: 0;
+  color: #666;
+  font-style: normal;
+}
+
+blockquote p {
+  margin-bottom: 0;
+}
+
+/* 代码块 */
+pre code {
+  font-size: 0.9em;
+  line-height: 1.6;
+}
+
+/* 标签样式 */
+.tagcloud a {
+  transition: color 0.2s ease;
+}
+
+/* 暗色模式适配 */
+@media (prefers-color-scheme: dark) {
+  blockquote {
+    color: #aaa;
+    border-left-color: #e74c3c;
+  }
+}
