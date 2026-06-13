@@ -2,8 +2,9 @@
 title: 2023 个人娱乐总结
 date: 2023-12-12
 slug: 2023-entertainment-summary
-categories: [writing, yearly]
-tags: [年终总结, 娱乐, 游戏, 动漫]
+categories: 
+  - writing
+tags: [年终总结, 娱乐, 游戏, 动漫, yearly]
 ---
 
 ## 2023个人娱乐总结
