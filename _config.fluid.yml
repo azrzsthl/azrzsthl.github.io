@@ -3,7 +3,7 @@
 
 # ---------- 导航栏 ----------
 navbar:
-  blog_name: 二条律师
+  blog_title: 首页
   avatar: /img/avatar.png
   menu:
     - { key: "写作", link: "/writing/" }
