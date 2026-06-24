@@ -53,6 +53,8 @@ prismjs:
 
 # Home page setting
 index_generator:
+  exclude:
+    - cases
   path: ""
   per_page: 8
   order_by: -date
