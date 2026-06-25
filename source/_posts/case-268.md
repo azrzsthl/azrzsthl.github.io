@@ -1,6 +1,7 @@
 ---
 title: "指导性案例268号：严某聪以危险方法危害公共安全案"
 date: 2026-02-13
+indexing: false
 slug: case-268
 categories:
   - cases

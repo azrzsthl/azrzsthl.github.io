@@ -1,6 +1,7 @@
 ---
 title: "指导案例162号：重庆江小白酒业有限公司诉国家知识产权局、第三人重庆市江津酒厂（集团）有限公司商标权无效宣告行政纠纷案"
 date: 2021-07-30
+indexing: false
 slug: case-162
 categories:
   - cases

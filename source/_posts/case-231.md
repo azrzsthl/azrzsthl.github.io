@@ -1,6 +1,7 @@
 ---
 title: "指导性案例231号：东莞市丰某海运有限公司诉东营市鑫某物流有限责任公司"
 date: 2024-11-26
+indexing: false
 slug: case-231
 categories:
   - cases

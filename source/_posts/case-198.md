@@ -1,6 +1,7 @@
 ---
 title: "指导性案例198号：中国工商银行股份有限公司岳阳分行与刘友良申请撤销仲裁裁决案"
 date: 2022-12-30
+indexing: false
 slug: case-198
 categories:
   - cases

@@ -1,6 +1,7 @@
 ---
 title: "指导案例62号：王新明合同诈骗案"
 date: 2016-07-05
+indexing: false
 slug: case-62
 categories:
   - cases

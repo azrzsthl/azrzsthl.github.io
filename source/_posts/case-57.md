@@ -1,6 +1,7 @@
 ---
 title: "指导案例57号：温州银行股份有限公司宁波分行诉浙江创菱电器有限公司等金融借款合同纠纷案"
 date: 2016-06-06
+indexing: false
 slug: case-57
 categories:
   - cases

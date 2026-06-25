@@ -1,6 +1,7 @@
 ---
 title: "指导案例18号：中兴通讯（杭州）有限责任公司诉王鹏劳动合同纠纷案"
 date: 2013-11-16
+indexing: false
 slug: case-18
 categories:
   - cases

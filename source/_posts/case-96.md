@@ -1,6 +1,7 @@
 ---
 title: "指导案例96号：宋文军诉西安市大华餐饮有限公司股东资格确认纠纷案"
 date: 2018-06-27
+indexing: false
 slug: case-96
 categories:
   - cases

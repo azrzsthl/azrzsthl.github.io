@@ -1,6 +1,7 @@
 ---
 title: "指导案例95号：中国工商银行股份有限公司宣城龙首支行诉宣城柏冠贸易有限公司、江苏凯盛置业有限公司等金融借款合同纠纷案"
 date: 2018-06-27
+indexing: false
 slug: case-95
 categories:
   - cases

@@ -1,6 +1,7 @@
 ---
 title: "指导性案例241号：黄某亿申请广西壮族自治区平果县公安局违法使用武器致伤赔偿案"
 date: 2024-12-25
+indexing: false
 slug: case-241
 categories:
   - cases

@@ -1,6 +1,7 @@
 ---
 title: "指导性案例202号：武汉卓航江海贸易有限公司、向阳等12人污染环境刑事附带民事公益诉讼案"
 date: 2023-01-11
+indexing: false
 slug: case-202
 categories:
   - cases

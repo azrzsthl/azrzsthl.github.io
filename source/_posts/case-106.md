@@ -1,6 +1,7 @@
 ---
 title: "指导案例106号：谢检军、高垒、高尔樵、杨泽彬开设赌场案"
 date: 2018-12-25
+indexing: false
 slug: case-106
 categories:
   - cases

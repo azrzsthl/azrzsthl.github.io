@@ -1,6 +1,7 @@
 ---
 title: "指导案例147号：张永明、毛伟明、张鹭故意损毁名胜古迹案"
 date: 2021-01-12
+indexing: false
 slug: case-147
 categories:
   - cases

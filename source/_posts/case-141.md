@@ -1,6 +1,7 @@
 ---
 title: "指导案例141号：支某1等诉北京市永定河管理处生命权、健康权、身体权纠纷案"
 date: 2020-10-16
+indexing: false
 slug: case-141
 categories:
   - cases

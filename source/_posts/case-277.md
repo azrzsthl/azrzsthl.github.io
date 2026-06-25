@@ -1,6 +1,7 @@
 ---
 title: "指导性案例277号：江苏宏某旋转补偿器科技有限公司诉江苏远某波纹管有限公司等侵害发明专利权纠纷案"
 date: 2026-02-28
+indexing: false
 slug: case-277
 categories:
   - cases

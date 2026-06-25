@@ -1,6 +1,7 @@
 ---
 title: "指导案例33号：瑞士嘉吉国际公司诉福建金石制油有限公司等确认合同无效纠纷案"
 date: 2014-12-18
+indexing: false
 slug: case-33
 categories:
   - cases

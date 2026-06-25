@@ -1,6 +1,7 @@
 ---
 title: "指导案例7号：牡丹江市宏阁建筑安装有限责任公司诉牡丹江市华隆房地产开发有限责任公司、张继增建设工程施工合同纠纷案"
 date: 2012-04-10
+indexing: false
 slug: case-7
 categories:
   - cases

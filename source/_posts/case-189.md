@@ -1,6 +1,7 @@
 ---
 title: "指导案例189号：上海熊猫互娱文化有限公司诉李岑、昆山播爱游信息技术有限公司合同纠纷案"
 date: 2022-12-09
+indexing: false
 slug: case-189
 categories:
   - cases

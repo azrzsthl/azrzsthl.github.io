@@ -1,6 +1,7 @@
 ---
 title: "指导性案例234号：南京华某船务有限公司申请设立海事赔偿责任限制基金案"
 date: 2024-11-26
+indexing: false
 slug: case-234
 categories:
   - cases

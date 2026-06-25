@@ -1,6 +1,7 @@
 ---
 title: "指导案例1号：上海中原物业顾问有限公司诉陶德华居间合同纠纷案"
 date: 2012-01-11
+indexing: false
 slug: case-1
 categories:
   - cases

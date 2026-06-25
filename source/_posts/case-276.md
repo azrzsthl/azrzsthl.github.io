@@ -1,6 +1,7 @@
 ---
 title: "指导性案例276号：诺某股份有限公司诉国家知识产权局、第三人戴某良发明专利权无效行政纠纷案"
 date: 2026-02-28
+indexing: false
 slug: case-276
 categories:
   - cases

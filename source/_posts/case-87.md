@@ -1,6 +1,7 @@
 ---
 title: "指导案例87号：郭明升、郭明锋、孙淑标假冒注册商标案"
 date: 2017-03-16
+indexing: false
 slug: case-87
 categories:
   - cases

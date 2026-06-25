@@ -1,6 +1,7 @@
 ---
 title: "指导性案例275号：江苏省金某种业科技有限公司诉江苏亲某农业产业发展有限公司侵害植物新品种权纠纷案"
 date: 2026-02-28
+indexing: false
 slug: case-275
 categories:
   - cases

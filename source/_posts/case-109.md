@@ -1,6 +1,7 @@
 ---
 title: "指导案例109号：安徽省外经建设（集团）有限公司诉东方置业房地产有限公司保函欺诈纠纷案"
 date: 2019-02-25
+indexing: false
 slug: case-109
 categories:
   - cases

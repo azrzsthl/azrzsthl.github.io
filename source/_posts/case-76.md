@@ -1,6 +1,7 @@
 ---
 title: "指导案例76号：萍乡市亚鹏房地产开发有限公司诉萍乡市国土资源局不履行行政协议案"
 date: 2017-01-03
+indexing: false
 slug: case-76
 categories:
   - cases

@@ -1,6 +1,7 @@
 ---
 title: "指导案例27号：臧进泉等盗窃、诈骗案"
 date: 2014-07-05
+indexing: false
 slug: case-27
 categories:
   - cases

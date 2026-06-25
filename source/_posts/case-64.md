@@ -1,6 +1,7 @@
 ---
 title: "指导案例64号：刘超捷诉中国移动通信集团江苏有限公司徐州分公司电信服务合同纠纷案"
 date: 2016-07-05
+indexing: false
 slug: case-64
 categories:
   - cases

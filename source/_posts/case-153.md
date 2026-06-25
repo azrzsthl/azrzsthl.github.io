@@ -1,6 +1,7 @@
 ---
 title: "指导案例153号：永安市燕诚房地产开发有限公司诉郑耀南、远东"
 date: 2021-03-03
+indexing: false
 slug: case-153
 categories:
   - cases

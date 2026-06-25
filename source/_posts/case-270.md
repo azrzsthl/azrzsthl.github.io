@@ -1,6 +1,7 @@
 ---
 title: "指导性案例270号：成某明危险驾驶案"
 date: 2026-02-13
+indexing: false
 slug: case-270
 categories:
   - cases

@@ -1,6 +1,7 @@
 ---
 title: "指导案例19号：赵春明等诉烟台市福山区汽车运输公司、卫德平等机动车交通事故责任纠纷案"
 date: 2013-11-16
+indexing: false
 slug: case-19
 categories:
   - cases

@@ -1,6 +1,7 @@
 ---
 title: "指导案例132号：中国生物多样性保护与绿色发展基金会诉秦皇岛方圆包装玻璃有限公司大气污染责任民事公益诉讼案"
 date: 2020-01-14
+indexing: false
 slug: case-132
 categories:
   - cases

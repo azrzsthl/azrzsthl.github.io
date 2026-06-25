@@ -1,6 +1,7 @@
 ---
 title: "指导案例98号：张庆福、张殿凯诉朱振彪生命权纠纷案"
 date: 2018-12-19
+indexing: false
 slug: case-98
 categories:
   - cases

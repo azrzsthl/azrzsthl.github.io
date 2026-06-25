@@ -1,6 +1,7 @@
 ---
 title: "指导性案例266号：黄某欢诉某信用管理有限公司个人信息保护纠纷案"
 date: 2025-08-28
+indexing: false
 slug: case-266
 categories:
   - cases

@@ -1,6 +1,7 @@
 ---
 title: "指导性案例232号：某牧实业股份有限公司诉帕某海运公司海上货物运输合同纠纷案"
 date: 2024-11-26
+indexing: false
 slug: case-232
 categories:
   - cases

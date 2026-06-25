@@ -1,6 +1,7 @@
 ---
 title: "指导性案例240号：秦某丹诉北京某汽车技术开发服务有限公司劳动争议案"
 date: 2024-12-24
+indexing: false
 slug: case-240
 categories:
   - cases

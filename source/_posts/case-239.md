@@ -1,6 +1,7 @@
 ---
 title: "指导性案例239号：王某诉北京某文化传媒有限公司劳动争议案"
 date: 2024-12-24
+indexing: false
 slug: case-239
 categories:
   - cases

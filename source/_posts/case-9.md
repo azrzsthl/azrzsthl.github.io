@@ -1,6 +1,7 @@
 ---
 title: "指导案例9号：上海存亮贸易有限公司诉蒋志东、王卫明等买卖合同纠纷案"
 date: 2012-09-26
+indexing: false
 slug: case-9
 categories:
   - cases

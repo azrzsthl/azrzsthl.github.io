@@ -1,6 +1,7 @@
 ---
 title: "指导案例21号：内蒙古秋实房地产开发有限责任公司诉呼和浩特市人民防空办公室人防行政征收案"
 date: 2013-11-16
+indexing: false
 slug: case-21
 categories:
   - cases

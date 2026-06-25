@@ -1,6 +1,7 @@
 ---
 title: "指导案例63号：徐加富强制医疗案"
 date: 2016-07-05
+indexing: false
 slug: case-63
 categories:
   - cases

@@ -1,6 +1,7 @@
 ---
 title: "指导案例91号：沙明保等诉马鞍山市花山区人民政府房屋强制拆除行政赔偿案"
 date: 2017-11-24
+indexing: false
 slug: case-91
 categories:
   - cases

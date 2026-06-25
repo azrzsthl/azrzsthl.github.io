@@ -1,6 +1,7 @@
 ---
 title: "指导案例10号：李建军诉上海佳动力环保科技有限公司公司决议撤销纠纷案"
 date: 2012-09-26
+indexing: false
 slug: case-10
 categories:
   - cases

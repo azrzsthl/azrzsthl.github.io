@@ -1,6 +1,7 @@
 ---
 title: "指导案例67号：汤长龙诉周士海股权转让纠纷案"
 date: 2016-09-30
+indexing: false
 slug: case-67
 categories:
   - cases

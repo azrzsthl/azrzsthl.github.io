@@ -1,6 +1,7 @@
 ---
 title: "指导性案例224号：某美（天津）图像技术有限公司诉河南某庐蜂业有限公司侵害作品信息网络传播权纠纷案"
 date: 2023-12-20
+indexing: false
 slug: case-224
 categories:
   - cases

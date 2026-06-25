@@ -1,6 +1,7 @@
 ---
 title: "指导案例23号：孙银山诉南京欧尚超市有限公司江宁店买卖合同纠纷案"
 date: 2014-01-29
+indexing: false
 slug: case-23
 categories:
   - cases

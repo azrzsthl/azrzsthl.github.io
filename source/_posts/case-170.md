@@ -1,6 +1,7 @@
 ---
 title: "指导案例170号：饶国礼诉某物资供应站等房屋租赁合同纠纷案"
 date: 2021-11-11
+indexing: false
 slug: case-170
 categories:
   - cases

@@ -1,6 +1,7 @@
 ---
 title: "指导性案例206号：北京市人民检察院第四分院诉朱清良、朱清涛环境污染民事公益诉讼案"
 date: 2023-01-11
+indexing: false
 slug: case-206
 categories:
   - cases

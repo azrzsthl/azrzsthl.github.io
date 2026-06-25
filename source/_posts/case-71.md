@@ -1,6 +1,7 @@
 ---
 title: "指导案例71号：毛建文拒不执行判决、裁定案"
 date: 2017-01-03
+indexing: false
 slug: case-71
 categories:
   - cases

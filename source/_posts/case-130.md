@@ -1,6 +1,7 @@
 ---
 title: "指导案例130号：重庆市人民政府、重庆两江志愿服务发展中心诉重庆藏金阁物业管理有限公司、重庆首旭环保科技"
 date: 2020-01-14
+indexing: false
 slug: case-130
 categories:
   - cases

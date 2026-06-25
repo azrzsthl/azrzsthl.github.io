@@ -1,6 +1,7 @@
 ---
 title: "指导案例183号：房玥诉中美联泰大都会人寿保险有限公司劳动合同纠纷案"
 date: 2022-07-06
+indexing: false
 slug: case-183
 categories:
   - cases

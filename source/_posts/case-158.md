@@ -1,6 +1,7 @@
 ---
 title: "指导案例158号：深圳市卫邦科技有限公司诉李坚毅、深圳市远程智能设备有限公司专利权权属纠纷案"
 date: 2021-07-30
+indexing: false
 slug: case-158
 categories:
   - cases

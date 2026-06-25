@@ -1,6 +1,7 @@
 ---
 title: "指导案例179号：聂美兰诉北京林氏兄弟文化有限公司确认劳动关系案"
 date: 2022-07-06
+indexing: false
 slug: case-179
 categories:
   - cases

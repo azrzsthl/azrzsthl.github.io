@@ -1,6 +1,7 @@
 ---
 title: "指导案例46号：山东鲁锦实业有限公司诉鄄城县鲁锦工艺品有限责任公司、济宁礼之邦家纺有限公司侵害商标权及不正当竞争纠纷案"
 date: 2015-04-23
+indexing: false
 slug: case-46
 categories:
   - cases

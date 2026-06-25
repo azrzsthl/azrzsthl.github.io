@@ -1,6 +1,7 @@
 ---
 title: "指导性案例269号：刘某江交通肇事宣告无罪案"
 date: 2026-02-13
+indexing: false
 slug: case-269
 categories:
   - cases

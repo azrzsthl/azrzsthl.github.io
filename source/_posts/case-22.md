@@ -1,6 +1,7 @@
 ---
 title: "指导案例22号：魏永高、陈守志诉来安县人民政府收回土地使用权批复案"
 date: 2013-11-16
+indexing: false
 slug: case-22
 categories:
   - cases

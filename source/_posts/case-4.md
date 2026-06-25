@@ -1,6 +1,7 @@
 ---
 title: "指导案例4号：王志才故意杀人案"
 date: 2012-01-11
+indexing: false
 slug: case-4
 categories:
   - cases

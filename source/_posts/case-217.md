@@ -1,6 +1,7 @@
 ---
 title: "指导性案例217号：慈溪市博某塑料制品有限公司诉永康市联某工贸有限公司、浙江天某网络有限公司等侵害实用新型专利权纠纷案"
 date: 2023-12-20
+indexing: false
 slug: case-217
 categories:
   - cases

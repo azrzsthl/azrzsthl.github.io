@@ -1,6 +1,7 @@
 ---
 title: "指导案例82号：王碎永诉深圳歌力思服饰股份有限公司、杭州银泰世纪百货有限公司侵害商标权纠纷案"
 date: 2017-03-16
+indexing: false
 slug: case-82
 categories:
   - cases

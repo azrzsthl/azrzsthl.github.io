@@ -1,6 +1,7 @@
 ---
 title: "指导案例172号：秦家学滥伐林木刑事附带民事公益诉讼案"
 date: 2021-12-03
+indexing: false
 slug: case-172
 categories:
   - cases

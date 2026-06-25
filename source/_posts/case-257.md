@@ -1,6 +1,7 @@
 ---
 title: "指导性案例257号：北京市昌平区某环境研究所诉某流域水电开发有限公司生态破坏民事公益诉讼案"
 date: 2025-05-28
+indexing: false
 slug: case-257
 categories:
   - cases

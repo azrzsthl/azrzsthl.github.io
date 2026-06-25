@@ -1,6 +1,7 @@
 ---
 title: "指导性案例216号：睢宁县人民检察院诉睢宁县环境保护局不履行环境保护监管职责案"
 date: 2023-11-21
+indexing: false
 slug: case-216
 categories:
   - cases

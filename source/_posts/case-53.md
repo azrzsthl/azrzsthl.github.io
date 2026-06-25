@@ -1,6 +1,7 @@
 ---
 title: "指导案例53号：福建海峡银行股份有限公司福州五一支行诉 长乐亚新污水处理有限公司、福州市政工程有限公司金融借款合同纠纷案"
 date: 2015-11-26
+indexing: false
 slug: case-53
 categories:
   - cases

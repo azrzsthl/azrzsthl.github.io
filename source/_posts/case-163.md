@@ -1,6 +1,7 @@
 ---
 title: "指导案例163号：江苏省纺织工业（集团）进出口有限公司及其五家子公司实质合并破产重整案"
 date: 2021-10-09
+indexing: false
 slug: case-163
 categories:
   - cases

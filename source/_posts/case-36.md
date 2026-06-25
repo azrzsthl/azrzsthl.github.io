@@ -1,6 +1,7 @@
 ---
 title: "指导案例36号：中投信用担保有限公司与海通证券股份有限公司等证券权益纠纷执行复议案"
 date: 2014-12-18
+indexing: false
 slug: case-36
 categories:
   - cases

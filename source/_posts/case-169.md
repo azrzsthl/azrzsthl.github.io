@@ -1,6 +1,7 @@
 ---
 title: "指导案例169号：徐欣诉招商银行股份有限公司上海延西支行银行卡纠纷案"
 date: 2021-11-11
+indexing: false
 slug: case-169
 categories:
   - cases

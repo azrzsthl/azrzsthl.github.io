@@ -1,6 +1,7 @@
 ---
 title: "指导性案例204号：重庆市人民检察院第五分院诉重庆瑜煌电力设备制造有限公司等环境污染民事公益诉讼案"
 date: 2023-01-11
+indexing: false
 slug: case-204
 categories:
   - cases

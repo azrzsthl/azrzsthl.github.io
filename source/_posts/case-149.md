@@ -1,6 +1,7 @@
 ---
 title: "指导案例149号：长沙广大建筑装饰有限公司诉中国工商银行股份有限公司广州粤秀支行、林传武、长沙广大"
 date: 2021-03-03
+indexing: false
 slug: case-149
 categories:
   - cases

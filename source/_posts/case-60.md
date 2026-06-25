@@ -1,6 +1,7 @@
 ---
 title: "指导案例60号：盐城市奥康食品有限公司东台分公司诉盐城市东台工商行政管理局工商行政处罚案"
 date: 2016-06-06
+indexing: false
 slug: case-60
 categories:
   - cases

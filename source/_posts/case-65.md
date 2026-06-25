@@ -1,6 +1,7 @@
 ---
 title: "指导案例65号：上海市虹口区久乐大厦小区业主大会诉上海环亚实业总公司业主共有权纠纷案"
 date: 2016-09-30
+indexing: false
 slug: case-65
 categories:
   - cases

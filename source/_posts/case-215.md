@@ -1,6 +1,7 @@
 ---
 title: "指导性案例215号：昆明闽某纸业有限责任公司等污染环境刑事附带民事公益诉讼案"
 date: 2023-11-21
+indexing: false
 slug: case-215
 categories:
   - cases

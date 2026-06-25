@@ -1,6 +1,7 @@
 ---
 title: "指导性案例235号：S航运有限公司申请承认外国法院民事判决案"
 date: 2024-11-26
+indexing: false
 slug: case-235
 categories:
   - cases

@@ -1,6 +1,7 @@
 ---
 title: "指导案例165号：重庆金江印染有限公司、重庆川江针纺有限公司破产管理人申请实质合并破产清算案"
 date: 2021-10-09
+indexing: false
 slug: case-165
 categories:
   - cases

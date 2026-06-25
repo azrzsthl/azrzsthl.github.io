@@ -1,6 +1,7 @@
 ---
 title: "指导案例144号：张那木拉正当防卫案"
 date: 2021-01-12
+indexing: false
 slug: case-144
 categories:
   - cases

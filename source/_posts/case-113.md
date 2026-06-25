@@ -1,6 +1,7 @@
 ---
 title: "指导案例113号：迈克尔·杰弗里·乔丹与国家工商行政管理总局商标评审委员会、乔丹体育股份有限公司“乔丹”商标争议行政纠纷案"
 date: 2020-01-14
+indexing: false
 slug: case-113
 categories:
   - cases

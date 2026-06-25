@@ -1,6 +1,7 @@
 ---
 title: "指导性案例222号：广州德某水产设备科技有限公司诉广州宇某水产科技有限公司、南某水产研究所财产损害赔偿纠纷案"
 date: 2023-12-20
+indexing: false
 slug: case-222
 categories:
   - cases

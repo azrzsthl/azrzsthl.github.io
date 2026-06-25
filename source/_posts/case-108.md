@@ -1,6 +1,7 @@
 ---
 title: "指导案例108号：浙江隆达不锈钢有限公司诉A.P.穆勒-马士基有限公司海上货物运输合同纠纷案"
 date: 2019-02-25
+indexing: false
 slug: case-108
 categories:
   - cases

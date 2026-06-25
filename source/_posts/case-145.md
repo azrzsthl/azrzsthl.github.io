@@ -1,6 +1,7 @@
 ---
 title: "指导案例145号：张竣杰等非法控制计算机信息系统案"
 date: 2021-01-12
+indexing: false
 slug: case-145
 categories:
   - cases

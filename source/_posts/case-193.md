@@ -1,6 +1,7 @@
 ---
 title: "指导性案例193号：闻巍等侵犯公民个人信息案"
 date: 2022-12-28
+indexing: false
 slug: case-193
 categories:
   - cases

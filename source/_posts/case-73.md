@@ -1,6 +1,7 @@
 ---
 title: "指导案例73号：通州建总集团有限公司诉安徽天宇化工有限公司别除权纠纷案"
 date: 2017-01-03
+indexing: false
 slug: case-73
 categories:
   - cases

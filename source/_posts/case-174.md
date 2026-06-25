@@ -1,6 +1,7 @@
 ---
 title: "指导案例174号：中国生物多样性保护与绿色发展基金会诉雅砻江流域水电开发有限公司生态环境保护民事公益诉讼案"
 date: 2021-12-03
+indexing: false
 slug: case-174
 categories:
   - cases

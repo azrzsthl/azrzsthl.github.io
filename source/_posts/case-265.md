@@ -1,6 +1,7 @@
 ---
 title: "最高人民法院发布第16批指导性案例"
 date: 2017-03-16
+indexing: false
 slug: case-265
 categories:
   - cases

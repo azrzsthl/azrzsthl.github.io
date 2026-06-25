@@ -1,6 +1,7 @@
 ---
 title: "指导性案例238号：圣某欢诉江苏某网络科技有限公司确认劳动关系纠纷案"
 date: 2024-12-24
+indexing: false
 slug: case-238
 categories:
   - cases

@@ -1,6 +1,7 @@
 ---
 title: "指导案例38号：田永诉北京科技大学拒绝颁发毕业证、学位证案"
 date: 2014-12-25
+indexing: false
 slug: case-38
 categories:
   - cases

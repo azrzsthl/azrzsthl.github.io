@@ -1,6 +1,7 @@
 ---
 title: "指导案例129号：江苏省人民政府诉安徽海德化工科技有限公司生态环境损害赔偿案"
 date: 2020-01-14
+indexing: false
 slug: case-129
 categories:
   - cases

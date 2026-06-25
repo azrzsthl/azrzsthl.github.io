@@ -1,6 +1,7 @@
 ---
 title: "指导案例115号：瓦莱奥清洗系统公司诉厦门卢卡斯汽车配件有限公司等侵害发明专利权纠纷案"
 date: 2020-01-14
+indexing: false
 slug: case-115
 categories:
   - cases

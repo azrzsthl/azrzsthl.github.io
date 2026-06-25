@@ -1,6 +1,7 @@
 ---
 title: "指导案例29号：天津中国青年旅行社诉天津国青国际 旅行社擅自使用他人企业名称纠纷案"
 date: 2015-02-09
+indexing: false
 slug: case-29
 categories:
   - cases

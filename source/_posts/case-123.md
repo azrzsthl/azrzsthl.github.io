@@ -1,6 +1,7 @@
 ---
 title: "指导案例123号：于红岩与锡林郭勒盟隆兴矿业有限责任公司执行监督案"
 date: 2020-01-14
+indexing: false
 slug: case-123
 categories:
   - cases

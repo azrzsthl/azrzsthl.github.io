@@ -1,6 +1,7 @@
 ---
 title: "指导性案例212号：刘某桂非法采矿刑事附带民事公益诉讼案"
 date: 2023-11-21
+indexing: false
 slug: case-212
 categories:
   - cases

@@ -1,6 +1,7 @@
 ---
 title: "指导案例31号：江苏炜伦航运股份有限公司诉米拉达 玫瑰公司船舶碰撞损害赔偿纠纷案"
 date: 2014-07-05
+indexing: false
 slug: case-31
 categories:
   - cases

@@ -1,6 +1,7 @@
 ---
 title: "指导案例94号：重庆市涪陵志大物业管理有限公司诉重庆市涪陵区人力资源和社会保障局劳动和社会保障行政确认案"
 date: 2018-06-27
+indexing: false
 slug: case-94
 categories:
   - cases

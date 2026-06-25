@@ -1,6 +1,7 @@
 ---
 title: "指导案例11号：杨延虎等贪污案"
 date: 2012-09-26
+indexing: false
 slug: case-11
 categories:
   - cases

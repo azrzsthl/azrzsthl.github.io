@@ -1,6 +1,7 @@
 ---
 title: "指导案例187号：吴强等敲诈勒索、抢劫、故意伤害案"
 date: 2022-12-07
+indexing: false
 slug: case-187
 categories:
   - cases

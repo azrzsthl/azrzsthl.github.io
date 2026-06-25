@@ -1,6 +1,7 @@
 ---
 title: "指导性案例219号：广州天某高新材料股份有限公司、九江天某高新材料有限公司诉安徽纽某精细化工有限公司等侵害技术秘密纠纷案"
 date: 2023-12-20
+indexing: false
 slug: case-219
 categories:
   - cases

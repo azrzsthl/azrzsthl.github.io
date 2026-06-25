@@ -1,6 +1,7 @@
 ---
 title: "指导案例166号：北京隆昌伟业贸易有限公司诉北京城建重工有限公司合同纠纷案"
 date: 2021-11-11
+indexing: false
 slug: case-166
 categories:
   - cases

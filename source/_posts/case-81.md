@@ -1,6 +1,7 @@
 ---
 title: "指导案例81号：张晓燕诉雷献和、赵琪、山东爱书人音像图书有限公司著作权侵权纠纷案"
 date: 2017-03-16
+indexing: false
 slug: case-81
 categories:
   - cases

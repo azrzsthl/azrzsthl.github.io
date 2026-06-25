@@ -1,6 +1,7 @@
 ---
 title: "指导案例140号：李秋月等诉广州市花都区梯面镇红山村村民委员会违反安全保障义务责任纠纷案"
 date: 2020-10-16
+indexing: false
 slug: case-140
 categories:
   - cases

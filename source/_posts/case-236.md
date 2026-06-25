@@ -1,6 +1,7 @@
 ---
 title: "指导性案例236号：环某船舶租赁有限责任公司诉天某财富有限公司"
 date: 2024-11-26
+indexing: false
 slug: case-236
 categories:
   - cases

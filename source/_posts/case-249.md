@@ -1,6 +1,7 @@
 ---
 title: "指导性案例249号：长春某泽投资有限公司诉德惠市某原种场等金融借款合同纠纷案"
 date: 2025-03-13
+indexing: false
 slug: case-249
 categories:
   - cases

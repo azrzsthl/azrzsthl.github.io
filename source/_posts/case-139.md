@@ -1,6 +1,7 @@
 ---
 title: "指导案例139号：上海鑫晶山建材开发有限公司诉上海市金山区环境保护局环境行政处罚案"
 date: 2020-01-14
+indexing: false
 slug: case-139
 categories:
   - cases

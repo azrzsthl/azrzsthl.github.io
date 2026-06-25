@@ -1,6 +1,7 @@
 ---
 title: "指导案例56号：韩凤彬诉内蒙古九郡药业有限责任公司等产品责任纠纷管辖权异议案"
 date: 2015-11-26
+indexing: false
 slug: case-56
 categories:
   - cases

@@ -1,6 +1,7 @@
 ---
 title: "指导案例176号：湖南省益阳市人民检察院诉夏顺安等15人生态破坏民事公益诉讼案"
 date: 2021-12-03
+indexing: false
 slug: case-176
 categories:
   - cases

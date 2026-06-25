@@ -1,6 +1,7 @@
 ---
 title: "指导案例131号：中华环保联合会诉德州晶华集团振华有限公司大气污染责任民事公益诉讼案"
 date: 2020-01-14
+indexing: false
 slug: case-131
 categories:
   - cases

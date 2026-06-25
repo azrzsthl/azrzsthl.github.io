@@ -1,6 +1,7 @@
 ---
 title: "指导案例182号：彭宇翔诉南京市城市建设开发（集团）有限责任公司追索劳动报酬纠纷案"
 date: 2022-07-06
+indexing: false
 slug: case-182
 categories:
   - cases

@@ -1,6 +1,7 @@
 ---
 title: "指导案例68号：上海欧宝生物科技有限公司诉辽宁特莱维置业发展有限公司企业借贷纠纷案"
 date: 2016-09-30
+indexing: false
 slug: case-68
 categories:
   - cases

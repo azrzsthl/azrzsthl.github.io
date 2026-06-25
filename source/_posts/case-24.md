@@ -1,6 +1,7 @@
 ---
 title: "指导案例24号：荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案"
 date: 2014-01-29
+indexing: false
 slug: case-24
 categories:
   - cases

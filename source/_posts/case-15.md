@@ -1,6 +1,7 @@
 ---
 title: "指导案例15号：徐工集团工程机械股份有限公司诉成都川交工贸有限责任公司等买卖合同纠纷案"
 date: 2013-02-07
+indexing: false
 slug: case-15
 categories:
   - cases

@@ -1,6 +1,7 @@
 ---
 title: "指导案例58号：成都同德福合川桃片有限公司诉重庆市合川区同德福桃片有限公司、余晓华侵害商标权及不正当竞争纠纷案"
 date: 2016-06-06
+indexing: false
 slug: case-58
 categories:
   - cases

@@ -1,6 +1,7 @@
 ---
 title: "指导案例47号：意大利费列罗公司诉蒙特莎（张家港）食品有限公司、天津经济技术开发区正元行销有限公司不正当竞争纠纷案"
 date: 2015-04-23
+indexing: false
 slug: case-47
 categories:
   - cases

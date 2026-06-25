@@ -1,6 +1,7 @@
 ---
 title: "指导性案例226号：陈某某、刘某某故意伤害、虐待案"
 date: 2024-05-30
+indexing: false
 slug: case-226
 categories:
   - cases

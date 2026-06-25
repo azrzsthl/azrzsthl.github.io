@@ -1,6 +1,7 @@
 ---
 title: "指导性案例230号：新某航运有限公司诉中国机某国际合作股份有限公司海上货物运输合同纠纷案"
 date: 2024-11-26
+indexing: false
 slug: case-230
 categories:
   - cases

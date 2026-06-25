@@ -1,6 +1,7 @@
 ---
 title: "指导案例72号：汤龙、刘新龙、马忠太、王洪刚诉新疆鄂尔多斯彦海房地产开发有限公司商品房买卖合同纠纷案"
 date: 2017-01-03
+indexing: false
 slug: case-72
 categories:
   - cases

@@ -1,6 +1,7 @@
 ---
 title: "指导案例16号：中海发展股份有限公司货轮公司申请设立海事赔偿责任限制基金案"
 date: 2013-02-07
+indexing: false
 slug: case-16
 categories:
   - cases

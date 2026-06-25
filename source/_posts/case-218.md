@@ -1,6 +1,7 @@
 ---
 title: "指导性案例218号：苏州赛某电子科技有限公司诉深圳裕某科技有限公司等侵害集成电路布图设计专有权纠纷案"
 date: 2023-12-20
+indexing: false
 slug: case-218
 categories:
   - cases
