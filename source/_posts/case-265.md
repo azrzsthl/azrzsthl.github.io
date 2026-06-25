@@ -1,6 +1,6 @@
 ---
 title: "最高人民法院发布第16批指导性案例"
-date: 2020-01-01
+date: 2017-03-16
 slug: case-265
 categories:
   - cases
@@ -15,4 +15,3 @@ description: "最高人民法院发布第16批指导性案例"
 > **来源**：[最高人民法院](https://www.court.gov.cn/shenpan/xiangqing/37602.html)
 
 ---
-*爬取时间：2026-06-24 15:06*

@@ -94,9 +94,9 @@ footer:
         - '[关于](/about/)'
     - title: 分类
       items:
-        - '[法律实务](/categories/law/)'
-        - '[深度思考](/categories/reload/)'
-        - '[暴论](/categories/caveman/)'
+        - '[一点小研究](/categories/law/)'
+        - '[浅薄思考](/categories/reload/)'
+        - '[碎碎念](/categories/caveman/)'
         - '[工具](/categories/tools/)'
   content: |
     本站由 [{author.name}](/) 使用 [{theme.name} {theme.version}]({theme.tree}) 主题创建。
