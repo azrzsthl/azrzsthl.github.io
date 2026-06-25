@@ -1,0 +1,102 @@
+# Stellar 主题覆盖配置 - 二条律师
+
+logo:
+  avatar: '/img/avatar.png'
+  title: '二条律师'
+  subtitle: '修辞立其诚'
+
+menubar:
+  columns: 5
+  items:
+    - id: home
+      theme: '#1BCDFC'
+      icon: solar:home-bold-duotone
+      title: 首页
+      url: /
+    - id: writing
+      theme: '#3DC550'
+      icon: solar:pen-new-square-bold-duotone
+      title: 写作
+      url: /writing/
+    - id: cases
+      theme: '#FA6400'
+      icon: solar:book-bold-duotone
+      title: 案例
+      url: /categories/cases/
+    - id: projects
+      theme: '#F44336'
+      icon: solar:folder-bold-duotone
+      title: 项目
+      url: /projects/
+    - id: about
+      theme: '#9C27B0'
+      icon: solar:user-bold-duotone
+      title: 关于
+      url: /about/
+
+site_tree:
+  home:
+    menu_id: home
+    leftbar: welcome, recent
+    rightbar:
+  index_blog:
+    base_dir: blog
+    menu_id: home
+    leftbar: welcome, recent
+    rightbar:
+    nav_tabs:
+      '近期发布': /blog/
+      '分类': /blog/categories/
+      '标签': /blog/tags/
+      '归档': /blog/archives/
+  post:
+    menu_id: home
+    leftbar: related, recent
+    rightbar: toc
+  page:
+    leftbar: recent
+    rightbar: toc
+  error_page:
+    menu_id: home
+    '404': '/404.html'
+
+article:
+  type: story
+  indent: true
+  auto_excerpt: 200
+
+search:
+  service: local_search
+  local_search:
+    field: all
+    path: /search.json
+    content: true
+
+style:
+  prefers_theme: auto
+  color:
+    theme: 'hsl(207, 90%, 54%)'
+    accent: 'hsl(14, 100%, 57%)'
+    link: 'hsl(207, 90%, 54%)'
+
+footer:
+  social:
+    github:
+      icon: '<img src="https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.12/social/08a41b181ce68.svg"/>'
+      url: https://github.com/azrzsthl
+  sitemap:
+    - title: 导航
+      items:
+        - '[首页](/)'
+        - '[写作](/writing/)'
+        - '[案例](/categories/cases/)'
+        - '[项目](/projects/)'
+        - '[关于](/about/)'
+    - title: 分类
+      items:
+        - '[法律实务](/categories/law/)'
+        - '[深度思考](/categories/reload/)'
+        - '[暴论](/categories/caveman/)'
+        - '[工具](/categories/tools/)'
+  content: |
+    本站由 [{author.name}](/) 使用 [{theme.name} {theme.version}]({theme.tree}) 主题创建。

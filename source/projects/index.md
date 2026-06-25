@@ -1,6 +1,7 @@
 ---
 title: 项目
 layout: page
+menu_id: projects
 ---
 
 这里放当前在做的项目与长期计划。

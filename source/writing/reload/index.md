@@ -1,6 +1,7 @@
 ---
 title: "#reload"
 layout: page
+menu_id: writing
 ---
 
 #reload 系列——深度思考，长文。

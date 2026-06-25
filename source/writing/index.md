@@ -1,6 +1,7 @@
 ---
 title: 写作
 layout: page
+menu_id: writing
 ---
 
 所有文字输出都放在这里：法律实务、深度思考、暴论、工具方法。

@@ -1,6 +1,7 @@
 ---
 title: "#caveman"
 layout: page
+menu_id: writing
 ---
 
 #caveman 系列——暴论，短平快。

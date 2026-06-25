@@ -1,6 +1,7 @@
 ---
 title: 关于
 layout: page
+menu_id: about
 ---
 
 ## 谁是二条
