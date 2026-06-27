@@ -10,27 +10,22 @@ menubar:
   items:
     - id: home
       theme: '#1BCDFC'
-      icon: solar:home-bold-duotone
       title: 首页
       url: /
     - id: writing
       theme: '#3DC550'
-      icon: solar:pen-new-square-bold-duotone
       title: 写作
       url: /writing/
     - id: cases
       theme: '#FA6400'
-      icon: solar:book-bold-duotone
       title: 案例
       url: /categories/cases/
     - id: projects
       theme: '#F44336'
-      icon: solar:folder-bold-duotone
       title: 项目
       url: /projects/
     - id: about
       theme: '#9C27B0'
-      icon: solar:user-bold-duotone
       title: 关于
       url: /about/
 
@@ -63,9 +58,9 @@ article:
 search:
   service: local_search
   local_search:
-    field: all
+    field: title
     path: /search.json
-    content: true
+    content: false
 
 style:
   prefers_theme: auto
