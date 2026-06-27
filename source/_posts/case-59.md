@@ -1,7 +1,6 @@
 ---
 title: "指导案例59号：戴世华诉济南市公安消防支队消防验收纠纷案"
 date: 2016-06-06
-indexing: false
 slug: case-59
 categories:
   - cases

@@ -1,7 +1,6 @@
 ---
 title: "指导案例99号：葛长生诉洪振快名誉权、荣誉权纠纷案"
 date: 2018-12-19
-indexing: false
 slug: case-99
 categories:
   - cases

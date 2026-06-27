@@ -1,7 +1,6 @@
 ---
 title: "指导性案例246号：苗某顺等人申请黑龙江省牡丹江监狱怠于履行监管职责致死赔偿案"
 date: 2024-12-25
-indexing: false
 slug: case-246
 categories:
   - cases

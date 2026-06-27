@@ -1,7 +1,6 @@
 ---
 title: "指导案例48号：北京精雕科技有限公司诉上海奈凯电子科技有限公司侵害计算机软件著作权纠纷案"
 date: 2015-04-23
-indexing: false
 slug: case-48
 categories:
   - cases

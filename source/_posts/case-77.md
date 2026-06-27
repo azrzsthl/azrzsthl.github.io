@@ -1,7 +1,6 @@
 ---
 title: "指导案例77号：罗镕荣诉吉安市物价局物价行政处理案"
 date: 2017-01-03
-indexing: false
 slug: case-77
 categories:
   - cases

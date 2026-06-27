@@ -1,7 +1,6 @@
 ---
 title: "指导案例8号：林方清诉常熟市凯莱实业有限公司、戴小明公司解散纠纷案"
 date: 2012-04-10
-indexing: false
 slug: case-8
 categories:
   - cases

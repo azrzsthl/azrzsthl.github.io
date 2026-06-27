@@ -1,7 +1,6 @@
 ---
 title: "指导性案例243号：邓某华申请重庆市南川区公安局违法使用武器致伤赔偿案"
 date: 2024-12-25
-indexing: false
 slug: case-243
 categories:
   - cases

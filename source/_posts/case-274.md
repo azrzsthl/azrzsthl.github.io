@@ -1,7 +1,6 @@
 ---
 title: "指导性案例274号：青岛青某重工有限公司诉青岛晨某机械设备有限公司侵害实用新型专利权纠纷案"
 date: 2026-02-28
-indexing: false
 slug: case-274
 categories:
   - cases

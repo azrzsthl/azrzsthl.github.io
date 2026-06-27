@@ -1,7 +1,6 @@
 ---
 title: "指导案例86号：天津天隆种业科技有限公司与江苏徐农种业科技有限公司侵害植物新品种权纠纷案"
 date: 2017-03-16
-indexing: false
 slug: case-86
 categories:
   - cases

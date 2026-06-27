@@ -1,7 +1,6 @@
 ---
 title: "指导案例181号：郑某诉霍尼韦尔自动化控制（中国）有限公司劳动合同纠纷案"
 date: 2022-07-06
-indexing: false
 slug: case-181
 categories:
   - cases

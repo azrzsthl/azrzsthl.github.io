@@ -1,7 +1,6 @@
 ---
 title: "指导案例32号：张某某、金某危险驾驶案"
 date: 2014-12-18
-indexing: false
 slug: case-32
 categories:
   - cases

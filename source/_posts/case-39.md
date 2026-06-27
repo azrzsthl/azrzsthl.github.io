@@ -1,7 +1,6 @@
 ---
 title: "指导案例39号：何小强诉华中科技大学拒绝授予学位案"
 date: 2014-12-25
-indexing: false
 slug: case-39
 categories:
   - cases

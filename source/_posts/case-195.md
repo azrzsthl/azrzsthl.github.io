@@ -1,7 +1,6 @@
 ---
 title: "指导性案例195号：罗文君、瞿小珍侵犯公民个人信息刑事附带民事公益诉讼案"
 date: 2022-12-28
-indexing: false
 slug: case-195
 categories:
   - cases

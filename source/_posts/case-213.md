@@ -1,7 +1,6 @@
 ---
 title: "指导性案例213号：黄某辉、陈某等8人非法捕捞水产品刑事附带民事公益诉讼案"
 date: 2023-11-21
-indexing: false
 slug: case-213
 categories:
   - cases

@@ -1,7 +1,6 @@
 ---
 title: "指导案例112号：阿斯特克有限公司申请设立海事赔偿责任限制基金案"
 date: 2019-02-25
-indexing: false
 slug: case-112
 categories:
   - cases

@@ -1,7 +1,6 @@
 ---
 title: "指导性案例278号：福建恒某科技有限公司诉泉州日某流量仪器仪表有限公司因恶意提起知识产权诉讼损害责任纠纷案"
 date: 2026-02-28
-indexing: false
 slug: case-278
 categories:
   - cases

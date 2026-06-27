@@ -1,7 +1,6 @@
 ---
 title: "指导案例42号：朱红蔚申请无罪逮捕赔偿案"
 date: 2014-12-25
-indexing: false
 slug: case-42
 categories:
   - cases

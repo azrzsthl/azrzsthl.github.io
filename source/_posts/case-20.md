@@ -1,7 +1,6 @@
 ---
 title: "指导案例20号：深圳市斯瑞曼精细化工有限公司诉深圳市坑梓自来水有限公司、深圳市康泰蓝水处理设备有限公司侵害发明专利权纠纷案"
 date: 2013-11-16
-indexing: false
 slug: case-20
 categories:
   - cases

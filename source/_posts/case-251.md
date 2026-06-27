@@ -1,7 +1,6 @@
 ---
 title: "指导性案例251号：四川某化工股份有限公司与山东某化工股份有限公司等执行实施案"
 date: 2025-04-08
-indexing: false
 slug: case-251
 categories:
   - cases

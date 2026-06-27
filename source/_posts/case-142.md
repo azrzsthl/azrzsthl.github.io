@@ -1,7 +1,6 @@
 ---
 title: "指导案例142号：刘明莲、郭丽丽、郭双双诉孙伟、河南兰庭物业管理有限公司信阳分公司生命权纠纷案"
 date: 2020-10-16
-indexing: false
 slug: case-142
 categories:
   - cases

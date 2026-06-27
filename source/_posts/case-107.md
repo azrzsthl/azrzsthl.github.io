@@ -1,7 +1,6 @@
 ---
 title: "指导案例107号：中化国际（新加坡）有限公司诉蒂森克虏伯冶金产品有限责任公司国际货物买卖合同纠纷案"
 date: 2019-02-25
-indexing: false
 slug: case-107
 categories:
   - cases

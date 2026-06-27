@@ -1,7 +1,6 @@
 ---
 title: "指导性案例208号：江西省上饶市人民检察院诉张永明、张鹭、毛伟明生态破坏民事公益诉讼案"
 date: 2023-01-11
-indexing: false
 slug: case-208
 categories:
   - cases

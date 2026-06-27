@@ -1,7 +1,6 @@
 ---
 title: "指导案例127号：吕金奎等79人诉山海关船舶重工有限责任公司海上污染损害责任纠纷案"
 date: 2020-01-14
-indexing: false
 slug: case-127
 categories:
   - cases

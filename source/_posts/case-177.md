@@ -1,7 +1,6 @@
 ---
 title: "指导案例177号：海南临高盈海船务有限公司诉三沙市渔政支队行政处罚案"
 date: 2021-12-03
-indexing: false
 slug: case-177
 categories:
   - cases

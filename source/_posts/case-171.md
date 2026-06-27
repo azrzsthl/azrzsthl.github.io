@@ -1,7 +1,6 @@
 ---
 title: "指导案例171号：中天建设集团有限公司诉河南恒和置业有限公司建设工程施工合同纠纷案"
 date: 2021-11-11
-indexing: false
 slug: case-171
 categories:
   - cases

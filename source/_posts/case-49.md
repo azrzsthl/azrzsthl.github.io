@@ -1,7 +1,6 @@
 ---
 title: "指导案例49号：石鸿林诉泰州华仁电子资讯有限公司侵害计算机软件著作权纠纷案"
 date: 2015-04-23
-indexing: false
 slug: case-49
 categories:
   - cases

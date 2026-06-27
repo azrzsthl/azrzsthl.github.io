@@ -1,7 +1,6 @@
 ---
 title: "指导案例14号：董某某、宋某某抢劫案"
 date: 2013-02-07
-indexing: false
 slug: case-14
 categories:
   - cases

@@ -1,7 +1,6 @@
 ---
 title: "指导案例114号：克里斯蒂昂迪奥尔香料公司诉国家工商行政管理总局商标评审委员会商标申请驳回复审行政纠纷案"
 date: 2020-01-14
-indexing: false
 slug: case-114
 categories:
   - cases

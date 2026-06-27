@@ -1,7 +1,6 @@
 ---
 title: "指导案例90号：贝汇丰诉海宁市公安局交通警察大队道路交通管理行政处罚案"
 date: 2017-11-24
-indexing: false
 slug: case-90
 categories:
   - cases

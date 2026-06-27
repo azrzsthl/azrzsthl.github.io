@@ -1,7 +1,6 @@
 ---
 title: "指导案例128号：李劲诉华润置地（重庆）有限公司环境污染责任纠纷案"
 date: 2020-01-14
-indexing: false
 slug: case-128
 categories:
   - cases

@@ -1,7 +1,6 @@
 ---
 title: "指导案例80号：洪福远、邓春香诉贵州五福坊食品有限公司、贵州今彩民族文化研发有限公司著作权侵权纠纷案"
 date: 2017-03-16
-indexing: false
 slug: case-80
 categories:
   - cases

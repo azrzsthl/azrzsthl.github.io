@@ -1,7 +1,6 @@
 ---
 title: "指导案例89号:“北雁云依”诉济南市公安局历下区分局燕山派出所公安行政登记案"
 date: 2017-11-24
-indexing: false
 slug: case-89
 categories:
   - cases

@@ -1,7 +1,6 @@
 ---
 title: "指导案例168号：中信银行股份有限公司东莞分行诉陈志华等金融借款合同纠纷案"
 date: 2021-11-11
-indexing: false
 slug: case-168
 categories:
   - cases

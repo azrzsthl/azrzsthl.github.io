@@ -1,7 +1,6 @@
 ---
 title: "指导案例28号：胡克金拒不支付劳动报酬案"
 date: 2015-02-09
-indexing: false
 slug: case-28
 categories:
   - cases

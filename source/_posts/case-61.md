@@ -1,7 +1,6 @@
 ---
 title: "指导案例61号：马乐利用未公开信息交易案"
 date: 2016-07-05
-indexing: false
 slug: case-61
 categories:
   - cases

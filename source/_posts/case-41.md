@@ -1,7 +1,6 @@
 ---
 title: "指导案例41号：宣懿成等诉浙江省衢州市国土资源局收回国有土地使用权案"
 date: 2014-12-25
-indexing: false
 slug: case-41
 categories:
   - cases

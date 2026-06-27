@@ -1,7 +1,6 @@
 ---
 title: "指导性案例223号：张某龙诉北京某蝶文化传播有限公司、程某、马某侵害作品信息网络传播权纠纷案"
 date: 2023-12-20
-indexing: false
 slug: case-223
 categories:
   - cases

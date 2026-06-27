@@ -1,7 +1,6 @@
 ---
 title: "指导案例40号：孙立兴诉天津新技术产业园区劳动人事局工伤认定案"
 date: 2014-12-25
-indexing: false
 slug: case-40
 categories:
   - cases

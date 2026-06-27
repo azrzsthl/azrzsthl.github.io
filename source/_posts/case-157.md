@@ -1,7 +1,6 @@
 ---
 title: "指导案例157号：左尚明舍家居用品（上海）有限公司诉北京中融恒盛木业有限公司、南京梦阳家具销售中心侵害著作权纠纷案"
 date: 2021-07-30
-indexing: false
 slug: case-157
 categories:
   - cases

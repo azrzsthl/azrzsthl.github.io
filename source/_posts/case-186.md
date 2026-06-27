@@ -1,7 +1,6 @@
 ---
 title: "指导案例186号：龚品文等组织、领导、参加黑社会性质组织案"
 date: 2022-12-07
-indexing: false
 slug: case-186
 categories:
   - cases

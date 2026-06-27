@@ -1,7 +1,6 @@
 ---
 title: "指导案例17号：张莉诉北京合力华通汽车服务有限公司买卖合同纠纷案"
 date: 2013-11-16
-indexing: false
 slug: case-17
 categories:
   - cases

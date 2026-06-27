@@ -1,7 +1,6 @@
 ---
 title: "指导案例138号：陈德龙诉成都市成华区环境保护局环境行政处罚案"
 date: 2020-01-14
-indexing: false
 slug: case-138
 categories:
   - cases

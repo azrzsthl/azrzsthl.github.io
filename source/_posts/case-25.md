@@ -1,7 +1,6 @@
 ---
 title: "指导案例25号：华泰财产保险有限公司北京分公司诉李志贵、天安财产保险股份有限公司河北省分公司张家口支公司保险人代位求偿权纠纷案"
 date: 2014-01-29
-indexing: false
 slug: case-25
 categories:
   - cases

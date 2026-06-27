@@ -1,7 +1,6 @@
 ---
 title: "指导案例167号：北京大唐燃料有限公司诉山东百富物流有限公司买卖合同纠纷案"
 date: 2021-11-11
-indexing: false
 slug: case-167
 categories:
   - cases

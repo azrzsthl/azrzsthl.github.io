@@ -1,7 +1,6 @@
 ---
 title: "指导案例152号：鞍山市中小企业信用担保中心诉汪薇、鲁金英第三人撤销之诉案"
 date: 2021-03-03
-indexing: false
 slug: case-152
 categories:
   - cases

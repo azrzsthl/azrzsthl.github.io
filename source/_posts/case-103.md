@@ -1,7 +1,6 @@
 ---
 title: "指导案例103号：徐强破坏计算机信息系统案"
 date: 2018-12-25
-indexing: false
 slug: case-103
 categories:
   - cases

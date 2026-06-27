@@ -1,7 +1,6 @@
 ---
 title: "指导性案例273号：浙江吉某控股集团有限公司、浙江吉某汽车研究院有限公司诉威某汽车制造温州有限公司等侵害技术秘密纠纷案"
 date: 2026-02-28
-indexing: false
 slug: case-273
 categories:
   - cases

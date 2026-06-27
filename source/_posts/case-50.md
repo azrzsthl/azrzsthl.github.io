@@ -1,7 +1,6 @@
 ---
 title: "指导案例50号：李某、郭某阳诉郭某和、童某某继承纠纷案"
 date: 2015-04-23
-indexing: false
 slug: case-50
 categories:
   - cases

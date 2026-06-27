@@ -1,7 +1,6 @@
 ---
 title: "指导案例137号：云南省剑川县人民检察院诉剑川县森林公安局怠于履行法定职责环境行政公益诉讼案"
 date: 2020-01-14
-indexing: false
 slug: case-137
 categories:
   - cases

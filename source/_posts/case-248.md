@@ -1,7 +1,6 @@
 ---
 title: "指导性案例248号：金某等组织卖淫案"
 date: 2025-03-13
-indexing: false
 slug: case-248
 categories:
   - cases

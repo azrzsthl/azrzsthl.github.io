@@ -1,7 +1,6 @@
 ---
 title: "指导案例69号：王明德诉乐山市人力资源和社会保障局工伤认定案"
 date: 2016-09-30
-indexing: false
 slug: case-69
 categories:
   - cases

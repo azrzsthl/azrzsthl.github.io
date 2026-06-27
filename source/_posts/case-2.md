@@ -1,7 +1,6 @@
 ---
 title: "指导案例2号：吴梅诉四川省眉山西城纸业有限公司买卖合同纠纷案"
 date: 2012-01-11
-indexing: false
 slug: case-2
 categories:
   - cases

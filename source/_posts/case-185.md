@@ -1,7 +1,6 @@
 ---
 title: "指导案例185号：闫佳琳诉浙江喜来登度假村有限公司平等就业权纠纷案"
 date: 2022-07-06
-indexing: false
 slug: case-185
 categories:
   - cases

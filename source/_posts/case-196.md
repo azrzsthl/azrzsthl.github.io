@@ -1,7 +1,6 @@
 ---
 title: "指导性案例196号：运裕有限公司与深圳市中苑城商业投资控股有限公司申请确认仲裁协议效力案"
 date: 2022-12-30
-indexing: false
 slug: case-196
 categories:
   - cases

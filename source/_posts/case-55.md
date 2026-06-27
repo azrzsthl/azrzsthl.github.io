@@ -1,7 +1,6 @@
 ---
 title: "指导案例55号：柏万清诉成都难寻物品营销服务中心等侵害实用新型专利权纠纷案"
 date: 2015-11-26
-indexing: false
 slug: case-55
 categories:
   - cases

@@ -1,7 +1,6 @@
 ---
 title: "指导案例70号：北京阳光一佰生物技术开发有限公司、习文有等生产、销售有毒、有害食品案"
 date: 2017-01-03
-indexing: false
 slug: case-70
 categories:
   - cases

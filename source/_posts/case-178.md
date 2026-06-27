@@ -1,7 +1,6 @@
 ---
 title: "指导案例178号：北海市乃志海洋科技有限公司诉北海市海洋与渔业局行政处罚案"
 date: 2021-12-03
-indexing: false
 slug: case-178
 categories:
   - cases

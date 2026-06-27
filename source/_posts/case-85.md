@@ -1,7 +1,6 @@
 ---
 title: "指导案例85号：高仪股份公司诉浙江健龙卫浴有限公司侵害外观设计专利权纠纷案"
 date: 2017-03-16
-indexing: false
 slug: case-85
 categories:
   - cases

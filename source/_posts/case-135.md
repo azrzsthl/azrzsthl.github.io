@@ -1,7 +1,6 @@
 ---
 title: "指导案例135号：江苏省徐州市人民检察院诉苏州其安工艺品有限公司等环境民事公益诉讼案"
 date: 2020-01-14
-indexing: false
 slug: case-135
 categories:
   - cases

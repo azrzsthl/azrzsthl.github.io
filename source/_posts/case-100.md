@@ -1,7 +1,6 @@
 ---
 title: "指导案例100号：山东登海先锋种业有限公司诉陕西农丰种业有限责任公司、山西大丰种业有限公司侵害植物新品种权纠纷案"
 date: 2018-12-19
-indexing: false
 slug: case-100
 categories:
   - cases

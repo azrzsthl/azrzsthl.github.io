@@ -1,7 +1,6 @@
 ---
 title: "指导案例150号：中国民生银行股份有限公司温州分行诉浙江山口建筑工程有限公司、青田依利高鞋业有限公司第三人撤销之诉案"
 date: 2021-03-03
-indexing: false
 slug: case-150
 categories:
   - cases

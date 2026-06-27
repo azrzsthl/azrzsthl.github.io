@@ -1,7 +1,6 @@
 ---
 title: "指导案例148号：高光诉三亚天通国际酒店有限公司、海南博超房地产开发有限公司等第三人撤销之诉案"
 date: 2021-03-03
-indexing: false
 slug: case-148
 categories:
   - cases

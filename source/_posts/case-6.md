@@ -1,7 +1,6 @@
 ---
 title: "指导案例6号：黄泽富、何伯琼、何熠诉四川省成都市金堂工商行政管理局行政处罚案"
 date: 2012-04-10
-indexing: false
 slug: case-6
 categories:
   - cases

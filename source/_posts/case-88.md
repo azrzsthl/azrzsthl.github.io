@@ -1,7 +1,6 @@
 ---
 title: "指导案例88号：张道文、陶仁等诉四川省简阳市人民政府侵犯客运人力三轮车经营权案"
 date: 2017-11-24
-indexing: false
 slug: case-88
 categories:
   - cases

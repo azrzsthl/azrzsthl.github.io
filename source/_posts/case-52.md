@@ -1,7 +1,6 @@
 ---
 title: "指导案例52号：海南丰海粮油工业有限公司诉中国人民财产保险股份有限公司海南省分公司海上货物运输保险合同纠纷案"
 date: 2015-04-23
-indexing: false
 slug: case-52
 categories:
   - cases

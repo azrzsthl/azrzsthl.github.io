@@ -1,7 +1,6 @@
 ---
 title: "指导案例79号：吴小秦诉陕西广电网络传媒（集团）股份有限公司捆绑交易纠纷案"
 date: 2017-03-16
-indexing: false
 slug: case-79
 categories:
   - cases

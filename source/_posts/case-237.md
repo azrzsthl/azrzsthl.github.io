@@ -1,7 +1,6 @@
 ---
 title: "指导性案例237号：郎溪某服务外包有限公司诉徐某申确认劳动关系纠纷案"
 date: 2024-12-24
-indexing: false
 slug: case-237
 categories:
   - cases

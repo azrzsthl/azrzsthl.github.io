@@ -1,7 +1,6 @@
 ---
 title: "指导性案例242号：重庆某广房地产经纪有限公司申请重庆市公安局九龙坡区分局刑事违法扣押赔偿案"
 date: 2024-12-25
-indexing: false
 slug: case-242
 categories:
   - cases

@@ -1,7 +1,6 @@
 ---
 title: "指导案例26号：李健雄诉广东省交通运输厅政府信息公开案"
 date: 2014-01-29
-indexing: false
 slug: case-26
 categories:
   - cases

@@ -1,7 +1,6 @@
 ---
 title: "指导性案例233号：常州宏某石化仓储有限公司等诉宁波天某海运有限公司船舶触碰损害责任纠纷案"
 date: 2024-11-26
-indexing: false
 slug: case-233
 categories:
   - cases

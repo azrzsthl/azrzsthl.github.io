@@ -1,7 +1,6 @@
 ---
 title: "指导性案例221号：张某勋诉宜宾恒某投资集团有限公司、四川省宜宾市吴某建材工业有限责任公司等垄断纠纷案"
 date: 2023-12-20
-indexing: false
 slug: case-221
 categories:
   - cases

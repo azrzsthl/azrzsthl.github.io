@@ -1,7 +1,6 @@
 ---
 title: "指导性案例228号：张某诉李某、刘某监护权纠纷案"
 date: 2024-05-30
-indexing: false
 slug: case-228
 categories:
   - cases

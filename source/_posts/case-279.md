@@ -1,7 +1,6 @@
 ---
 title: "指导性案例279号：西某工业软件有限公司诉广州沃某模具有限公司侵害计算机软件著作权纠纷案"
 date: 2026-02-28
-indexing: false
 slug: case-279
 categories:
   - cases

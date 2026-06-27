@@ -1,7 +1,6 @@
 ---
 title: "指导案例30号：兰建军、杭州小拇指汽车维修科技股份有限公司诉天津市小拇指 汽车维修服务有限公司等侵害商标权及不正当竞争纠纷案"
 date: 2014-07-05
-indexing: false
 slug: case-30
 categories:
   - cases

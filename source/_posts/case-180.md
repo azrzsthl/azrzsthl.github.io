@@ -1,7 +1,6 @@
 ---
 title: "指导案例180号：孙贤锋诉淮安西区人力资源开发有限公司劳动合同纠纷案"
 date: 2022-07-06
-indexing: false
 slug: case-180
 categories:
   - cases

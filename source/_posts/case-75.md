@@ -1,7 +1,6 @@
 ---
 title: "指导案例75号：中国生物多样性保护与绿色发展基金会诉宁夏瑞泰科技股份有限公司环境污染公益诉讼案"
 date: 2017-01-03
-indexing: false
 slug: case-75
 categories:
   - cases

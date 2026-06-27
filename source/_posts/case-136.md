@@ -1,7 +1,6 @@
 ---
 title: "指导案例136号：吉林省白山市人民检察院诉白山市江源区卫生和计划生育局、白山市江源区中医院环境公益诉讼案"
 date: 2020-01-14
-indexing: false
 slug: case-136
 categories:
   - cases

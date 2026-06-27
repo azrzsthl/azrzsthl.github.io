@@ -1,7 +1,6 @@
 ---
 title: "指导案例160号：蔡新光诉广州市润平商业有限公司侵害植物新品种权纠纷案"
 date: 2021-07-30
-indexing: false
 slug: case-160
 categories:
   - cases

@@ -1,7 +1,6 @@
 ---
 title: "指导案例83号：威海嘉易烤生活家电有限公司诉永康市金仕德工贸有限公司、浙江天猫网络有限公司侵害发明专利权纠纷案"
 date: 2017-03-16
-indexing: false
 slug: case-83
 categories:
   - cases

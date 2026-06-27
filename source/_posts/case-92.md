@@ -1,7 +1,6 @@
 ---
 title: "指导案例92号：莱州市金海种业有限公司诉张掖市富凯农业科技有限责任公司侵犯植物新品种权纠纷案"
 date: 2017-11-24
-indexing: false
 slug: case-92
 categories:
   - cases

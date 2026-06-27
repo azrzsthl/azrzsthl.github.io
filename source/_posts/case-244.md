@@ -1,7 +1,6 @@
 ---
 title: "指导性案例244号：胡某波申请福建省莆田市中级人民法院再审无罪、人身自由损害刑事赔偿案"
 date: 2024-12-25
-indexing: false
 slug: case-244
 categories:
   - cases

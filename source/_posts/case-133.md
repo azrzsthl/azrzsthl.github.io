@@ -1,7 +1,6 @@
 ---
 title: "指导案例133号：山东省烟台市人民检察院诉王振殿、马群凯环境民事公益诉讼案"
 date: 2020-01-14
-indexing: false
 slug: case-133
 categories:
   - cases

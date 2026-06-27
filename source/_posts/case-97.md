@@ -1,7 +1,6 @@
 ---
 title: "指导案例97号：王力军非法经营再审改判无罪案"
 date: 2018-12-19
-indexing: false
 slug: case-97
 categories:
   - cases

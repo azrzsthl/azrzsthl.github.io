@@ -1,7 +1,6 @@
 ---
 title: "指导案例84号：礼来公司诉常州华生制药有限公司侵害发明专利权纠纷案"
 date: 2017-03-16
-indexing: false
 slug: case-84
 categories:
   - cases

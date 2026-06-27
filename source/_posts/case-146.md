@@ -1,7 +1,6 @@
 ---
 title: "指导案例146号：陈庆豪、陈淑娟、赵延海开设赌场案"
 date: 2021-01-12
-indexing: false
 slug: case-146
 categories:
   - cases

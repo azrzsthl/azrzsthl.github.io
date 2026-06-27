@@ -1,7 +1,6 @@
 ---
 title: "指导案例105号：洪小强、洪礼沃、洪清泉、李志荣开设赌场案"
 date: 2018-12-25
-indexing: false
 slug: case-105
 categories:
   - cases

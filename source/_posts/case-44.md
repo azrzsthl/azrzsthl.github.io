@@ -1,7 +1,6 @@
 ---
 title: "指导案例44号：卜新光申请刑事违法追缴赔偿案"
 date: 2014-12-25
-indexing: false
 slug: case-44
 categories:
   - cases

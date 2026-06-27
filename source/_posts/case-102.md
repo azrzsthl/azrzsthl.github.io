@@ -1,7 +1,6 @@
 ---
 title: "指导案例102号：付宣豪、黄子超破坏计算机信息系统案"
 date: 2018-12-25
-indexing: false
 slug: case-102
 categories:
   - cases

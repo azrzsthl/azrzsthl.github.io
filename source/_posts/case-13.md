@@ -1,7 +1,6 @@
 ---
 title: "指导案例13号：王召成等非法买卖、储存危险物质案"
 date: 2013-02-07
-indexing: false
 slug: case-13
 categories:
   - cases

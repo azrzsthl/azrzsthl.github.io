@@ -1,7 +1,6 @@
 ---
 title: "指导性案例199号：高哲宇与深圳市云丝路创新发展基金企业、李斌申请撤销仲裁裁决案"
 date: 2022-12-30
-indexing: false
 slug: case-199
 categories:
   - cases

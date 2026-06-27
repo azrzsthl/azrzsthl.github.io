@@ -1,7 +1,6 @@
 ---
 title: "指导案例190号：王山诉万得信息技术股份有限公司竞业限制纠纷案"
 date: 2022-12-09
-indexing: false
 slug: case-190
 categories:
   - cases

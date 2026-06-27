@@ -1,7 +1,6 @@
 ---
 title: "指导案例104号：李森、何利民、张锋勃等人破坏计算机信息系统案"
 date: 2018-12-25
-indexing: false
 slug: case-104
 categories:
   - cases

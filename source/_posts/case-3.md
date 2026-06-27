@@ -1,7 +1,6 @@
 ---
 title: "指导案例3号：潘玉梅、陈宁受贿案"
 date: 2012-01-11
-indexing: false
 slug: case-3
 categories:
   - cases

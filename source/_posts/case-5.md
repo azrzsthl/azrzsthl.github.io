@@ -1,7 +1,6 @@
 ---
 title: "指导案例5号：鲁潍（福建）盐业进出口有限公司苏州分公司诉江苏省苏州市盐务管理局盐业行政处罚案"
 date: 2012-04-10
-indexing: false
 slug: case-5
 categories:
   - cases

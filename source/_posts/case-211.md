@@ -1,7 +1,6 @@
 ---
 title: "指导性案例211号：铜仁市万山区人民检察院诉铜仁市万山区林业局不履行林业行政管理职责行政公益诉讼案"
 date: 2023-01-11
-indexing: false
 slug: case-211
 categories:
   - cases

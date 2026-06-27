@@ -1,7 +1,6 @@
 ---
 title: "指导案例175号：江苏省泰州市人民检察院诉王小朋等59人生态破坏民事公益诉讼案"
 date: 2021-12-03
-indexing: false
 slug: case-175
 categories:
   - cases

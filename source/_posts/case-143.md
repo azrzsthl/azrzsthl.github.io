@@ -1,7 +1,6 @@
 ---
 title: "指导案例143号：北京兰世达光电科技有限公司、黄晓兰诉赵敏名誉权纠纷案"
 date: 2020-10-16
-indexing: false
 slug: case-143
 categories:
   - cases

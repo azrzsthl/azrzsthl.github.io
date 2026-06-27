@@ -1,7 +1,6 @@
 ---
 title: "指导案例134号：重庆市绿色志愿者联合会诉恩施自治州建始磺厂坪矿业有限责任公司水污染责任民事公益诉讼案"
 date: 2020-01-14
-indexing: false
 slug: case-134
 categories:
   - cases

@@ -1,7 +1,6 @@
 ---
 title: "指导案例66号：雷某某诉宋某某离婚纠纷案"
 date: 2016-09-30
-indexing: false
 slug: case-66
 categories:
   - cases

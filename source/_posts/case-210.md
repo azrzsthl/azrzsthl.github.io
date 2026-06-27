@@ -1,7 +1,6 @@
 ---
 title: "指导性案例210号：九江市人民政府诉江西正鹏环保科技有限公司、杭州连新建材有限公司、李德等生态环境损害赔偿诉讼案"
 date: 2023-01-11
-indexing: false
 slug: case-210
 categories:
   - cases

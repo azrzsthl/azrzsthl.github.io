@@ -1,7 +1,6 @@
 ---
 title: "指导案例159号：深圳敦骏科技有限公司诉深圳市吉祥腾达科技有限公司等侵害发明专利权纠纷案"
 date: 2021-07-30
-indexing: false
 slug: case-159
 categories:
   - cases

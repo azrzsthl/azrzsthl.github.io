@@ -1,7 +1,6 @@
 ---
 title: "指导案例111号：中国建设银行股份有限公司广州荔湾支行诉广东蓝粤能源发展有限公司等信用证开证纠纷案"
 date: 2019-02-25
-indexing: false
 slug: case-111
 categories:
   - cases

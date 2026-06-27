@@ -1,7 +1,6 @@
 ---
 title: "指导案例93号：于欢故意伤害案"
 date: 2018-06-27
-indexing: false
 slug: case-93
 categories:
   - cases

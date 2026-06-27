@@ -1,7 +1,6 @@
 ---
 title: "指导性案例225号：江某某正当防卫案"
 date: 2024-05-30
-indexing: false
 slug: case-225
 categories:
   - cases

@@ -1,7 +1,6 @@
 ---
 title: "指导案例51号：阿卜杜勒·瓦希德诉中国东方航空股份有限公司航空旅客运输合同纠纷案"
 date: 2015-04-23
-indexing: false
 slug: case-51
 categories:
   - cases

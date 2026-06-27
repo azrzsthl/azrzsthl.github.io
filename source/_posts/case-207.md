@@ -1,7 +1,6 @@
 ---
 title: "指导性案例207号：江苏省南京市人民检察院诉王玉林生态破坏民事公益诉讼案"
 date: 2023-01-11
-indexing: false
 slug: case-207
 categories:
   - cases

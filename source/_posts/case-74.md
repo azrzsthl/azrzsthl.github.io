@@ -1,7 +1,6 @@
 ---
 title: "指导案例74号：中国平安财产保险股份有限公司江苏分公司诉江苏镇江安装集团有限公司保险人代位求偿权纠纷案"
 date: 2017-01-03
-indexing: false
 slug: case-74
 categories:
   - cases

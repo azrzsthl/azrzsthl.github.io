@@ -1,7 +1,6 @@
 ---
 title: "指导案例161号：广州王老吉大健康产业有限公司诉加多宝（中国）饮料有限公司虚假宣传纠纷案"
 date: 2021-07-30
-indexing: false
 slug: case-161
 categories:
   - cases
